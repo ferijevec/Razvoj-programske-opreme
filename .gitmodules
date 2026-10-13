@@ -1,0 +1,3 @@
+[submodule "knjiznica"]
+	path = knjiznica
+	url = https://github.com/ferijevec/Spoon-Knife.git
