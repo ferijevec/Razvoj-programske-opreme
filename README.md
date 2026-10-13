@@ -18,3 +18,5 @@ Vaja iz Gita in GitHuba. Repozitorij vsebuje majhen program v C++, na katerem va
 `main` je zaščiten. Spremembe gredo prek veje in pull requesta, ki mora prestati preverjanje `build`.
 
 Avtor: David Jelen
+
+Commiti so podpisani ;)
